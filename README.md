@@ -2,6 +2,8 @@
 
 ### Run E2E on Local
 ```bash
+# install deps
+npm i
 # start web server
 npm run start
 # start e2e server
