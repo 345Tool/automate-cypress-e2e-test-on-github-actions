@@ -8,6 +8,6 @@ npm run start
 npm run e2e
 ```
 
-More Info:
-[Cypress Guide](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
+More Info:  
+[Cypress Guide](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)  
 [GitHub Actions Workflow Syntax](https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions)
